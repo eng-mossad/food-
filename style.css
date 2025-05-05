@@ -59,7 +59,7 @@ ul {
 /* Header Start */
 header {
   height: 100vh;
-  background: url("./img/uu.jpeg") center center/cover no-repeat;
+  background: url("uu.jpeg") center center/cover no-repeat;
   position: relative;
 }
 
